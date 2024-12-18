@@ -1,2 +1,2 @@
 import keyword
-print(keyword.kwlist, sep='\n')
+print(keyword.kwlist)
