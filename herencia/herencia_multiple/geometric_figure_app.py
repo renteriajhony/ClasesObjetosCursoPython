@@ -1,7 +1,5 @@
-from curses.textpad import rectangle
-
-from herencia_multiple.rectangle import Rectangle
-from herencia_multiple.square import Square
+from herencia.herencia_multiple.rectangle import Rectangle
+from herencia.herencia_multiple.square import Square
 
 print('Creacion de Objeto cuadrado'.center(50,'-'))
 square = Square(2, 'rojo')

@@ -1,5 +1,5 @@
-from herencia_multiple.color import Color
-from herencia_multiple.geometric_figure import GeometricFigure
+from herencia.herencia_multiple.color import Color
+from herencia.herencia_multiple.geometric_figure import GeometricFigure
 
 
 class Rectangle(GeometricFigure, Color):
